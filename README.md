@@ -2,7 +2,8 @@
 
 Link to case study: [https\://8weeksqlchallenge.com/case-study-2/](https://8weeksqlchallenge.com/case-study-2/)
 
-# Entity Relationship Diagram![][image1]
+# Entity Relationship Diagram
+<img width="1189" height="398" alt="ERD" src="https://github.com/user-attachments/assets/15c56eca-03b8-4756-9c43-0ede317d561b" />
 
 * Created using Lucidchart  
 * Entities, Primary Keys (PK) and Foreign Keys (FK)  
